@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="034bfe3b-a923-496c-9826-f3789b9d05d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/web_spa_shoes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/asset/imgBackGround.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/asset/logoSTTAuth.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/asset/service/imgBaoAfter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/asset/service/imgBaoBefore.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/asset/service/imgChuaAfter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/asset/service/imgChuaBefore.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/asset/service/imgCustomAffter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/asset/service/imgCustomBefore.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/asset/service/imgPhucAfter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/asset/service/imgPhucBefore.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/asset/service/imgSuaAfter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/asset/service/imgSuaBefore.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/DetailServiceTab.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/FooterContact.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/HeaderNav.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/ServiceTab.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePages.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/reportWebVitals.ts" afterDir="false" />
-    </list>
+    <list default="true" id="034bfe3b-a923-496c-9826-f3789b9d05d3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,8 +78,16 @@
       <workItem from="1657975200327" duration="1488000" />
       <workItem from="1658039602499" duration="9521000" />
       <workItem from="1658935031724" duration="9288000" />
-      <workItem from="1659180461845" duration="17244000" />
+      <workItem from="1659180461845" duration="17840000" />
     </task>
+    <task id="LOCAL-00001" summary="push service">
+      <created>1659304080356</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659304080357</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,5 +104,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="push service" />
+    <option name="LAST_COMMIT_MESSAGE" value="push service" />
   </component>
 </project>
